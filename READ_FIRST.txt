@@ -1,0 +1,13 @@
+HORIZON OUTPOST — SOURCE CODE REVIEW COPY
+Developers: Jacqualine Pruett and Isabella Sherwin
+
+This is a selected source-code copy from the user-provided GitHub export, intended for judges to inspect. It is NOT a newly deployed playable build. The original private repository is unchanged.
+
+Included: application source, game logic, components, and selected project configuration.
+Excluded: dependency lockfile (the original repository has reported dependency advisories), deployment-specific configuration, and other files not needed for source review.
+
+A basic automated scan for common hardcoded secret patterns did not find matches in the selected source. THIS IS NOT A COMPLETE SECURITY AUDIT. Review all files before public release. In particular, check for private information, embedded identifiers, service credentials, licensed assets, and dependencies.
+
+To share publicly: upload this ZIP to Google Drive; set General access > Anyone with the link > Viewer; copy the link; test it in a signed-out browser; add the URL to your existing Canva presentation. The public ZIP link should be supplemental to the playable game link already submitted.
+
+Independent educational project. Not affiliated with, sponsored, approved, or endorsed by NASA.
