@@ -10,7 +10,7 @@ The game features mission planning, resource management, AURA mission alerts, ro
 
 Technology: React, JavaScript, TanStack Start, and Base44.
 
-Play the Game: [Insert public Base44 game link]
+Play the Game: https://horizon-outpost-by-jacqualine-isabella.base44.app
 
 Source Code: This repository contains source code provided for educational review.
 
